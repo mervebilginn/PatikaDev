@@ -21,7 +21,7 @@ public class Patika2 {
             System.out.println("KDV'li Tutar: " + kdvliTutar); 
         }
         else {
-           System.out.println("Geçersiz işlem, programdan çıkılıyor... ");  
+           System.out.println("Geçersiz işlem... ");  
         } 
     }
 }
